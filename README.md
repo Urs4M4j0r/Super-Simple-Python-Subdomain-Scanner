@@ -11,7 +11,7 @@ Takes a selected list of subdomains and iterates through it, attempting a connec
 # How can I use it?
 To use this project download/clone the repository and install needed dependencies. The table below shows what command line arguments are available.
 |Argumnet| Purpose| Example|
-|------|----------|--------|----------------------|
+|------|----------|--------|
 |-h/--help | Prints the help menu| python3 SSDSS.py -h |
 |-t/--time | Tells the script to print the execution time when finished| python3 SSDSS.py -t -d example.com |
 |-d/--domain | REQUIRED - Provides the domain to scan| python3 SSDSS.py -d example.com |
