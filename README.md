@@ -3,7 +3,11 @@ A very simple subdomain discovery tool written in python
 
 # What is this?
 This project is something I created to experiment with creating a simple subdomain discovery tool. I am often frustrated when trying to learn something new that every example I can find either has a lack of comments, or is very overcomplicated for learning.
+
+
 <img src=https://media.tenor.com/u8YEMwIfJGMAAAAC/thanos.gif>
+
+
 
 # What does it do?
 Takes a selected list of subdomains and iterates through it, attempting a connection with each. If the connection is successful, the URL is printed. Includes threading and command line arguments too!
