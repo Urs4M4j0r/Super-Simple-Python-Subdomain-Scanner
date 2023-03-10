@@ -26,9 +26,3 @@ queue
 
 # Disclaimer
 The information provided by/with this project is for educational, informational, and entertainment purposes only.
-
-# Donations
-BTC - bc1q8wdfa8xvqhgdyudy9hdaqzelps2rarl9vzas4m <br/>
-ETH - 0x77f533a7D98B6888f90543959fB5b8Ea3539eE0c <br/>
-LTC - LSfCvorJ4FUUKZiKnw1f2xaH2akdUm44AS  <br/>
-SHIB (of course)- 0x8126B2E305f46C202cFecD04b673A960142AC26B
